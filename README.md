@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/chuber-qa-quality-assurance-3o7WTL4qQCbbLLV2Pm" width="100"/>
-</div>
+
 <div id="header" align="center">
     <h1>Hi there, I'm  Nataliya </h1>
     <h3> Junior manual QA </h3>
@@ -18,7 +16,7 @@
 
 
   ### My CV
-  - [link to my CV](https://docs.google.com/document/d/1NP_X5-CeG0qNURQgh1jGoy-myAFwnFSziyFO9Qd0Sac/edit?usp=sharing)
+  [link to my CV](https://docs.google.com/document/d/1NP_X5-CeG0qNURQgh1jGoy-myAFwnFSziyFO9Qd0Sac/edit?usp=sharing)
   
 
 
