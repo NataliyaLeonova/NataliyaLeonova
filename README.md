@@ -14,7 +14,7 @@
     ### About me
 - :monocle_face: I’m currently learning Mobile application testing, Automation testing
 - :monocle_face: I’m currently learning English
-- :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nleo@tut.by)
+- :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nataliyaleonova76@gmailcom)
   
 
 
