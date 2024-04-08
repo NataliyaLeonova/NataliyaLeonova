@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gifer.com/ru/Nblu" width="100"/>
+  <img src="https://giphy.com/gifs/chuber-qa-quality-assurance-3o7WTL4qQCbbLLV2Pm" width="100"/>
 </div>
 <div id="header" align="center">
     <h1>Hi there, I'm  Nataliya </h1>
@@ -13,6 +13,7 @@
 
     ### About me
 - :monocle_face: I’m currently learning Mobile application testing, Automation testing
+- :monocle_face: I’m currently learning English
 - :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nleo@tut.by)
   
 
