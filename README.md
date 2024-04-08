@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/Owm.gif" width="100"/>
+  <img src="https://i.gifer.com/Owm.gif" width="10"/>
 </div>
 <div id="header" align="center">
     <h1>Hi there, I'm  Nataliya </h1>
