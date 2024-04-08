@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
-    <h1>Hi there, I'm  Ivan </h1>
-    <h3>Full Stack Developer from New York</h3>
+    <h1>Hi there, I'm  Nataliya </h1>
+    <h3> Junior manual QA </h3>
 </div>
 
 <div id="socials" align="center">
