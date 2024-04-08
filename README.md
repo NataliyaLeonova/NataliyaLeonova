@@ -12,7 +12,7 @@
   </a>
 
     ### About me
-- I’m currently learning **Mobile application testing** **Automation testing **
+- I’m currently learning Mobile application testing, Automation testing
 - Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nleo@tut.by)
   
 
