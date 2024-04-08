@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gifer.com/ru/Owm" width="10"/>
+  <img src="https://gifer.com/ru/Nblu" width="100"/>
 </div>
 <div id="header" align="center">
     <h1>Hi there, I'm  Nataliya </h1>
