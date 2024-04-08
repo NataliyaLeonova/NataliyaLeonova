@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Owm" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>" width="10"/>
+  <img src="https://gifer.com/ru/Owm" width="10"/>
 </div>
 <div id="header" align="center">
     <h1>Hi there, I'm  Nataliya </h1>
