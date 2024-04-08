@@ -15,6 +15,10 @@
 - :monocle_face: I’m currently learning Mobile application testing, Automation testing
 - :monocle_face: I’m currently learning English
 - :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nataliyaleonova76@gmailcom)
+
+
+  ### My CV
+  [link to my CV](https://docs.google.com/document/d/1NP_X5-CeG0qNURQgh1jGoy-myAFwnFSziyFO9Qd0Sac/edit?usp=sharing)
   
 
 
