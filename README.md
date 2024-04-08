@@ -12,16 +12,13 @@
   </a>
 
     ### About me
-- 🌱 I’m currently learning **Mobile application testing, Automation testing **
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nleo@tut.by)
+I’m currently learning **Mobile application testing, Automation testing **
+Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nleo@tut.by)
   
 
 
 
-### Languages and tools
 
-<img src="https://devicon.dev/#:~:text=postgresql-,postman" title="postman" width="40" height="40"/>&nbsp;
-<img src="https://ibb.co/Lp5fDjc" title="html" width="40" height="40"/>&nbsp;
 
 
 
