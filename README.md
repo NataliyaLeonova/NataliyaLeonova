@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+[![Header](https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)]
     <h1>Hi there, I'm  Nataliya </h1>
     <h3> Beginning manual QA </h3>
 </div>
