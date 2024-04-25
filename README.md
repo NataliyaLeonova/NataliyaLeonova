@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <h1>Hi there, I'm  Nataliya </h1>
-    <h3> Junior manual QA </h3>
+    <h3> Beginning manual QA </h3>
 </div>
 
 <div id="socials" align="center">
@@ -13,6 +13,10 @@
 - :monocle_face: I’m currently learning Mobile application testing, Automation testing
 - :monocle_face: I’m currently learning English
 - :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nataliyaleonova76@gmailcom)
+
+Languages and Tools
+
+Follow me
 
 
   ### My CV
