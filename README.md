@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)]
     <h1>Hi there, I'm  Nataliya </h1>
-    <h3> Beginning manual QA </h3>
+    <h3> I'm a Beginner manual QA </h3>
 </div>
 
 <div id="socials" align="center">
