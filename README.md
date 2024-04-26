@@ -6,10 +6,10 @@
 
 
 
-    ### About me
-- :monocle_face: I’m currently learning Mobile application testing, Automation testing
-- :monocle_face: I’m currently learning English
-- :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nataliyaleonova76@gmailcom)
+### About me
+- monocle_face: I’m currently learning Mobile application testing, Automation testing
+- monocle_face: I’m currently learning English
+- triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nataliyaleonova76@gmailcom)
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-<Jira>-090909?style=for-the-badge&logo=jira&logoColor=2684FF)
