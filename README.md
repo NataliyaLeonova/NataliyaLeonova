@@ -1,5 +1,5 @@
 
-![Header] (https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)
+[![Header](https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)]
     <h1>Hi there, I'm  Nataliya </h1>
     <h3> I'm a Beginner manual QA </h3>
 </div>
@@ -15,7 +15,7 @@
 - :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nataliyaleonova76@gmailcom)
 
 ### Languages and Tools
-![Jira](https://img.shields.io/badge/-<Jira>-<COLOR>)
+![Jira](https://img.shields.io/badge/-<Jira>-090909)
 
 Follow me
 
