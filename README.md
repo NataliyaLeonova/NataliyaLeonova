@@ -1,5 +1,5 @@
 
-<img scr="https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif" alt="beginner" width="100" height="100"/>
+[![Header] (https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)]
     <h1>Hi there, I'm  Nataliya </h1>
     <h3> I'm a Beginner manual QA </h3>
 </div>
