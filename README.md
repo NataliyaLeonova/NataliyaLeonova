@@ -1,5 +1,5 @@
 
-[![Header] (https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)]
+![Header] (https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)
     <h1>Hi there, I'm  Nataliya </h1>
     <h3> I'm a Beginner manual QA </h3>
 </div>
@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-    ### About me
+    ## About me
 - :monocle_face: I’m currently learning Mobile application testing, Automation testing
 - :monocle_face: I’m currently learning English
 - :triumph: Reach me by [LinkedIn](https://www.linkedin.com/feed/), [email](mailto:nataliyaleonova76@gmailcom)
 
 ### Languages and Tools
-[Jira](https://img.shields.io/badge/-<Jira>-<COLOR>)
+![Jira](https://img.shields.io/badge/-<Jira>-<COLOR>)
 
 Follow me
 
@@ -34,3 +34,6 @@ Follow me
 
 
 
+
+
+[def]: https://img.shields.io/badge/-<Jira>-<COLOR>
