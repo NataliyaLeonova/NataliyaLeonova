@@ -1,9 +1,13 @@
+<br clear="both">
 
-![Header](https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)
+<div align="center">
+  <img height="300" width="600" src="https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif"  />
+</div>
 
-###
-    <h1>Hi there, I'm  Nataliya </h1>
-    <h2> I'm a Beginner manual QA </h2>
+
+
+<h1>Hi there, I'm  Nataliya </h1>
+<h2> I'm a Beginner manual QA </h2>
 
 
 ### About me
