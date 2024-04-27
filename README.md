@@ -1,9 +1,7 @@
 
-
-
 ![Header](https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)
 
-
+###
     <h1>Hi there, I'm  Nataliya </h1>
     <h2> I'm a Beginner manual QA </h2>
 
