@@ -1,9 +1,11 @@
 
-[![Header](https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)] 
+
+
+![Header](https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif)
+
+
     <h1>Hi there, I'm  Nataliya </h1>
     <h2> I'm a Beginner manual QA </h2>
-
-
 
 
 ### About me
@@ -24,12 +26,17 @@
 </div>
 
 
-
   ### My CV
   [link to my CV](https://docs.google.com/document/d/1NP_X5-CeG0qNURQgh1jGoy-myAFwnFSziyFO9Qd0Sac/edit?usp=sharing)
 
-  ### My Bug-Reports
-  [Link to my BR](https://yalapusya.atlassian.net/jira/software/projects/DIPLOMA/boards/2)
+  ### 📁 Тестовая документация:
+
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  
+  
+</div>
 
 
 
@@ -42,3 +49,4 @@
 
 
 [def]: https://img.shields.io/badge/-<Jira>-<COLOR>
+[def2]: https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif
