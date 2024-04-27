@@ -6,7 +6,7 @@
 
 
 
-<h1>Hi there, I'm  Nataliya </h1>
+<h1>Hi there 👋, I'm  Nataliya  </h1>
 <h2> I'm a Beginner manual QA </h2>
 
 
@@ -31,7 +31,7 @@
   ### My CV
   [link to my CV](https://docs.google.com/document/d/1NP_X5-CeG0qNURQgh1jGoy-myAFwnFSziyFO9Qd0Sac/edit?usp=sharing)
 
-  ### 📁 Тестовая документация:
+  ### 📁 Test documentation:
 
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
