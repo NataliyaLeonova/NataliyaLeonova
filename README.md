@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif"  />
+  <img height="200" width="400" src="https://github.com/NataliyaLeonova/NataliyaLeonova/blob/main/assets/Klq.gif"  />
 </div>
 
 
