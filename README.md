@@ -33,7 +33,7 @@
 
   ### 📁 Test documentation:
 
-  
+  [Bug-Reports](https://natleonova.youtrack.cloud/agiles/160-4/current)
 
 
 
