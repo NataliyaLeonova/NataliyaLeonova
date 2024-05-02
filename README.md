@@ -33,8 +33,8 @@
 
   ### 📁 Test documentation:
 
-  [Bug-Reports](https://natleonova.youtrack.cloud/agiles/160-4/current)
-  [Postman Collection](https://github.com/NataliyaLeonova/Postman_collecton.git)
+  - [Bug-Reports](https://natleonova.youtrack.cloud/agiles/160-4/current)
+  - [Postman Collection](https://github.com/NataliyaLeonova/Postman_collecton.git)
 
 
 
