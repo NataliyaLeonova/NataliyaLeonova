@@ -14,7 +14,7 @@
 - :monocle_face: I’ve completed course in manual testing
 - :monocle_face: I’m currently learning Mobile application testing, Automation testing
 - :monocle_face: I’m currently learning English
-- :triumph: Reach me by [LinkedIn](https://www.linkedin.com/in/%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F-1bb010a8/), [email](mailto:nataliyaleonova76@gmailcom), [Telegramm](https://t.me/NataliyaMLeonova)
+- :triumph: Reach me by [LinkedIn](https://www.linkedin.com/in/%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F-1bb010a8/), [email](mailto:nataliyaleonova76@gmailcom), [Telegramm](https://t.me/NataliyaML)
 
 ### Languages and Tools
 <div>
